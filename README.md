@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Bridge351 as a backend developer.
+- 🔭 I’m currently working on Moongy as a backend developer.
 - 🌱 I'm a mechatronic engineer, and I’m currently doing a MSc in Computer Science for a AI and Data Analytics path.
 
 <!--
